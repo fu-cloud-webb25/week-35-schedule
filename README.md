@@ -42,15 +42,18 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Lektionsrepon
 
-* []()
+* [26 aug](https://github.com/fu-cloud-webb25/week-35-lecture-26-aug)
 
 ### Filmer
 
 
 ### Länkar
 
-* []()
+* [AWS CLI Cheat Sheet](https://github.com/fu-cloud-webb25/week-35-aws-cli-cheat-sheet)
 
 ### Övningar 
 
+* [IAM Bootcamp](https://github.com/fu-cloud-webb25/week-35-exercise-IAM-bootcamp)
+* [Lambda Bootcamp](https://github.com/fu-cloud-webb25/week-35-exercise-lambda-bootcamp)
+* [Serverless Framework Bootcamp](https://github.com/fu-cloud-webb25/week-35-serverless-framework-bootcamp)
 
