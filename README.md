@@ -21,11 +21,24 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [Kursintro](https://docs.google.com/presentation/d/1rD09EiRCV9khyFKwFTV1HWz8TqKt2xaM/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 02 - [Introduktion till molnet](https://docs.google.com/presentation/d/1yvIrEiSfwxYSF21IJ92dJBYtkJc5qUe5/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 03 - [Serverless](https://docs.google.com/presentation/d/1xKn1zBZ5jHTV0ctMF2Z4LBnDeg2EjlA9/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 04 - [IAM](https://docs.google.com/presentation/d/13z6YZRAbSGRLNe3_Snq_aKUio5K_gb0u/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 05 - [Lambdafunktioner](https://docs.google.com/presentation/d/1fY-58-o1l5fCqIFcQ4GgQGH2kGhIMPEu/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
-* []()
+**Förinspelat** - se **INNAN** 24/8
+* 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)
+* 02 - [Prismodeller i molnet](https://vimeo.com/1092411421/363bbe479a?share=copy)
+* 03 - [Hantera molnkostnader](https://vimeo.com/1092463975/8bd2df36cf?share=copy)
+* 04 - [Introduktion till Serverless](https://vimeo.com/1092464014/028aa4972b?share=copy)
+* 05 - [IAM / Introduktion](https://vimeo.com/1093098221/f9ba7c9871?share=copy)
+* 06 - [IAM / Root User](https://vimeo.com/1093098384/70d4993639?share=copy)
+* 07 - [IAM / Vanlig User](https://vimeo.com/1093117010/0a9e1be93e?share=copy)
+* 08 - [IAM / Policies](https://vimeo.com/1094064431/5cad9e0799?share=copy)
+* 09 - [IAM / Roller](https://vimeo.com/1094064395/1ab781d7f0?share=copy)
 
 ### Lektionsrepon
 
