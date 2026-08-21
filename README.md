@@ -25,7 +25,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 * 02 - [Introduktion till molnet](https://docs.google.com/presentation/d/1yvIrEiSfwxYSF21IJ92dJBYtkJc5qUe5/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * 03 - [Serverless](https://docs.google.com/presentation/d/1xKn1zBZ5jHTV0ctMF2Z4LBnDeg2EjlA9/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * 04 - [IAM](https://docs.google.com/presentation/d/13z6YZRAbSGRLNe3_Snq_aKUio5K_gb0u/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 05 - [Lambdafunktioner](https://docs.google.com/presentation/d/1fY-58-o1l5fCqIFcQ4GgQGH2kGhIMPEu/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 05 - [Lambdafunktioner](https://docs.google.com/presentation/d/12uJSXgEUiPgRb0EdRd7YSXOcskM6gU5_/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -46,6 +46,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Filmer
 
+* [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA&t=1s)
 
 ### Länkar
 
