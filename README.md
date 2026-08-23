@@ -42,6 +42,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Lektionsrepon
 
+* [24 aug](https://github.com/fu-cloud-webb25/week-35-lecture-24-aug)
 * [26 aug](https://github.com/fu-cloud-webb25/week-35-lecture-26-aug)
 
 ### Filmer
