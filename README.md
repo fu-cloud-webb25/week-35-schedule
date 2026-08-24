@@ -31,6 +31,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 **Lektionsinspelat**
 * 01 - [Lambdafunktioner](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBdASFOrVbARaoQwvCtXl3jAY_y8pte4xRbw1CkyA9EolU?e=xfeOYa)
+* 02 - [Lambdafunktioner, Todo API](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQA5oS30vcusRIK7DqD3yylpAYGs8EorD63d2noIiz0w25s?e=sxbIOt)
 
 **Förinspelat** - se **INNAN** 24/8
 * 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)
