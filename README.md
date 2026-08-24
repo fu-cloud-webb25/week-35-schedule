@@ -29,6 +29,9 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Inspelade föreläsningar
 
+**Lektionsinspelat**
+* 01 - [Lambdafunktioner](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBdASFOrVbARaoQwvCtXl3jAY_y8pte4xRbw1CkyA9EolU?e=xfeOYa)
+
 **Förinspelat** - se **INNAN** 24/8
 * 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)
 * 02 - [Prismodeller i molnet](https://vimeo.com/1092411421/363bbe479a?share=copy)
