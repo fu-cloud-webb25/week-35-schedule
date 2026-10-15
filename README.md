@@ -1,5 +1,5 @@
 # Schema, vecka 35
-###### Utveckling och driftsättning i molnmiljö, vecka 1 av 6
+###### Apputveckling mot molnet, vecka 1 av 6
 
 ## Introduktion
 
@@ -21,20 +21,16 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Presentationer
 
-* 01 - [Kursintro](https://docs.google.com/presentation/d/1rD09EiRCV9khyFKwFTV1HWz8TqKt2xaM/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 02 - [Introduktion till molnet](https://docs.google.com/presentation/d/1yvIrEiSfwxYSF21IJ92dJBYtkJc5qUe5/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 03 - [Serverless](https://docs.google.com/presentation/d/1xKn1zBZ5jHTV0ctMF2Z4LBnDeg2EjlA9/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 04 - [IAM](https://docs.google.com/presentation/d/13z6YZRAbSGRLNe3_Snq_aKUio5K_gb0u/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 05 - [Lambdafunktioner](https://docs.google.com/presentation/d/12uJSXgEUiPgRb0EdRd7YSXOcskM6gU5_/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 01 - []()
+
 
 ### Inspelade föreläsningar
 
 **Lektionsinspelat**
-* 01 - [Lambdafunktioner](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBdASFOrVbARaoQwvCtXl3jAY_y8pte4xRbw1CkyA9EolU?e=xfeOYa)
-* 02 - [Lambdafunktioner, Todo API](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQA5oS30vcusRIK7DqD3yylpAYGs8EorD63d2noIiz0w25s?e=sxbIOt)
-* 03 - [Serverless Framework](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAEt_lqBRGvT7ObD-vlcWHmAU6Vd4v8e8_S9zCoknbZ5V8?e=Ocoket)
+* 01 - []()
 
-**Förinspelat** - se **INNAN** 24/8
+
+**Förinspelat** - se **INNAN** 20/10
 * 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)
 * 02 - [Prismodeller i molnet](https://vimeo.com/1092411421/363bbe479a?share=copy)
 * 03 - [Hantera molnkostnader](https://vimeo.com/1092463975/8bd2df36cf?share=copy)
@@ -47,8 +43,8 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Lektionsrepon
 
-* [24 aug](https://github.com/fu-cloud-webb25/week-35-lecture-24-aug)
-* [26 aug](https://github.com/fu-cloud-webb25/week-35-lecture-26-aug)
+* [20 okt]()
+
 
 ### Filmer
 
@@ -56,11 +52,11 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Länkar
 
-* [AWS CLI Cheat Sheet](https://github.com/fu-cloud-webb25/week-35-aws-cli-cheat-sheet)
+* [AWS CLI Cheat Sheet]()
 
 ### Övningar 
 
-* [IAM Bootcamp](https://github.com/fu-cloud-webb25/week-35-exercise-IAM-bootcamp)
-* [Lambda Bootcamp](https://github.com/fu-cloud-webb25/week-35-exercise-lambda-bootcamp)
-* [Serverless Framework Bootcamp](https://github.com/fu-cloud-webb25/week-35-serverless-framework-bootcamp)
+* [IAM Bootcamp]()
+* [Lambda Bootcamp]()
+* [Serverless Framework Bootcamp]()
 
